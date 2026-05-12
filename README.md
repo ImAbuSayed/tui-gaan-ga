@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tui-gaan-ga/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tui Gaan Ga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-gaan-ga/) |
+| **Get License** | [Music Rights & Licensing for Tui Gaan Ga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-gaan-ga/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7793789cfbb444100dcc7cdd62c94bd036200c44b5fa78c0762f204f31f334eb` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
