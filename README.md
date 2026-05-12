@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tui-gaan-ga/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tui Gaan Ga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-gaan-ga/) |
+| **Get License** | [Secure Licensing Rights for Tui Gaan Ga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-gaan-ga/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোর শরীরের বাঁকে আজ নেশার এক সুর
+> আয় না কাছে আরও তুই, থাকিস না আর দূর
+> তোর ওই চোখের গভীরে অচিন আলোর ছোঁয়া
+> তুই গান গা, মুছে যাক সব লজ্জার এই ধোঁয়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
